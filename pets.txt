@@ -2,3 +2,5 @@ Moose
 Zeus
 Foley
 Nordstrom
+Max
+Parrot
